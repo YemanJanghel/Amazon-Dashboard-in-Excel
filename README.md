@@ -1,4 +1,7 @@
+<img width="1366" height="589" alt="Image" src="https://github.com/user-attachments/assets/0126bcab-7694-4a4d-a571-16df9cf55ca6" />
+
 📘 README — Sales Data Analytics Project
+
 
 📂 File Overview
 This Excel file consists of three sheets:
